@@ -1,6 +1,6 @@
 export { default as ConsoleColor } from "https://deno.land/x/color/index.ts";
 
-export { default as SQLQueryBuilder } from "https://deno.land/x/dex/mod.ts";
+export { default as SQLQueryBuilder } from "https://raw.githubusercontent.com/aghussb/dex/master/mod.ts";
 
 export { camelCase, snakeCase } from "https://deno.land/x/case/mod.ts";
 
